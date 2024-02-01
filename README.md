@@ -52,10 +52,7 @@ Feel free to experiment with the ingredients and adjust the seasoning according 
 Outer space 🌌 (or simply space) is the expanse beyond celestial bodies and their atmospheres. Outer space is not completely empty; it is a near-perfect vacuum[1] containing a low density of particles, predominantly a plasma of hydrogen and helium as well as electromagnetic radiation, magnetic fields, neutrinos, dust, and cosmic rays. The baseline temperature of outer space, as set by the background radiation from the Big Bang, is 2.7 kelvins (−270 °C; −455 °F).[2]
 
 Handes input
-# collaborating
-=======
 # Collaborating
->>>>>>> hande
 
 ## Hello, I am Hande  🤗
 - I am 32 years old. 
@@ -96,12 +93,8 @@ Handes input
 14) Finally pour all the yoghurt sauce and olive oil left evenly on top, and stick the baking dish in the fridge for a minimum of 2 hours (you can do overnight),
 15) Bake at 180 degrees celsius until golden brown. 🤤
 
-<<<<<<< HEAD
 
-## collaboration
-- the action of working with someone to produce something.
-=======
 # The definition of a word:
 ## Collaboration
 - The action of working with someone to produce something.
->>>>>>> hande
+
