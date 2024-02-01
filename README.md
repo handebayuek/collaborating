@@ -60,7 +60,8 @@ Handes input
 - I like taking care of plants 🌱 and painting 🎨 .
 
 # The recipe for your favorite dish:
-## Ingredients 🥔
+## Potato Pie🥔
+## Ingredients 
 - 4 phyllo sheets,
 - 2 cups of milk,
 - 2 cups of yoghurt,
