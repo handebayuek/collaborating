@@ -1,8 +1,8 @@
 # collaborating
 
-Hande , 32, living in Berlin, married
-have two animals
-like painting
+- Hande , 32, living in Berlin, married, from Turkiye
+- have two animals
+- like painting
 
 
 
