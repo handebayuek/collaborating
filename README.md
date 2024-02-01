@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 Linas input
 # 👥 Collaborating
@@ -53,25 +52,24 @@ Feel free to experiment with the ingredients and adjust the seasoning according 
 Outer space 🌌 (or simply space) is the expanse beyond celestial bodies and their atmospheres. Outer space is not completely empty; it is a near-perfect vacuum[1] containing a low density of particles, predominantly a plasma of hydrogen and helium as well as electromagnetic radiation, magnetic fields, neutrinos, dust, and cosmic rays. The baseline temperature of outer space, as set by the background radiation from the Big Bang, is 2.7 kelvins (−270 °C; −455 °F).[2]
 
 Handes input
-# Collaborating
-=======
+
 # Collaborating 🤝
->>>>>>> hande
+
 
 ## Hello, I am Hande  🤗
 - I am 32 years old. 
 - I am currently learning web development.
 - I like taking care of plants 🌱 and painting 🎨 .
 
-# The recipe for your favorite dish:
-<<<<<<< HEAD
+# The recipe for my favorite dish:
+
 ## Potato Pie🥔
 ## Ingredients 
-=======
+
 ## Potato Pie 🥔
 
 ### Ingredients 
->>>>>>> hande
+
 - 4 phyllo sheets,
 - 2 cups of milk,
 - 2 cups of yoghurt,
