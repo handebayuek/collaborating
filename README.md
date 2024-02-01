@@ -64,9 +64,6 @@ Handes input
 # The recipe for my favorite dish:
 
 ## Potato Pie🥔
-## Ingredients 
-
-## Potato Pie 🥔
 
 ### Ingredients 
 
