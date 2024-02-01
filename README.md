@@ -1,6 +1,9 @@
 # collaborating
 
-Hande , 32, in Berlin
+Hande , 32, living in Berlin, married
+have two animals
+like painting
+
 
 
 # Ingredients
@@ -36,3 +39,7 @@ Cover the filling with a new phyllo sheet, then pour over some yoghurt mixture a
 Repeat the same for the last phyllo sheet,
 Finally pour all the yoghurt sauce and olive oil left evenly on top, and stick the baking dish in the fridge for a minimum of 2 hours (you can do overnight),
 Bake at 180 degrees celsius until golden brown.
+
+
+## collaboration
+- the action of working with someone to produce something.
