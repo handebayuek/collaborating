@@ -1,4 +1,4 @@
-# Collaborating
+# Collaborating 🤝
 
 ## Hello, I am Hande  🤗
 - I am 32 years old. 
@@ -6,13 +6,15 @@
 - I like taking care of plants 🌱 and painting 🎨 .
 
 # The recipe for your favorite dish:
-## Ingredients 🥔
+## Potato Pie 🥔
+
+### Ingredients 
 - 4 phyllo sheets,
 - 2 cups of milk,
 - 2 cups of yoghurt,
 - 1 cup of olive oil,
 
-## Filling;
+### Filling;
 
 - 3 boiled potatoes,
 - 1/4 cup vegetable oil,
@@ -22,7 +24,7 @@
 - 2 teaspoons dried mint,
 - 3 teaspoons salt.
 
-## Preparation
+### Preparation
 1) Finely chop the onion and sauté in vegetable oil until softened,
 2) Stir in the tomato paste and cook for 2 mins, stir in the paprika,
 3) Add in the mashed boiled potatoes, salt and dried mint, stir everything well, then remove from heat,
